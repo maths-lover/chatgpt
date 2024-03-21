@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"chatgpt/utils"
+	"github.com/maths-lover/chatgpt/utils"
 )
 
 const (

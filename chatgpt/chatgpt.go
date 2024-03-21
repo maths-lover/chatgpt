@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"chatgpt/client"
-	"chatgpt/constants"
-	"chatgpt/utils"
+	"github.com/maths-lover/chatgpt/client"
+	"github.com/maths-lover/chatgpt/constants"
+	"github.com/maths-lover/chatgpt/utils"
 )
 
 type ChatCompletionRequest struct {
