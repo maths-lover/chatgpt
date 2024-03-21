@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/maths-lover/chatgpt/utils"
+	custom_errors "github.com/maths-lover/chatgpt/utils"
 )
 
 const (
